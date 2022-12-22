@@ -18,5 +18,4 @@ public enum Poste {
 //		for(Poste poste : Poste.values()) {
 //			System.out.println("- " + poste);
 //		}
-	}
 }

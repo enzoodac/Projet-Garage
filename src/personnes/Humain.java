@@ -15,6 +15,10 @@ public class Humain {
 	public String getNom() {
 		return nom;
 	}
+	
+//	public void verifNum(String telephone) {
+//		int len = length.telephone;
+//	}
 
 	public String getPrenom() {
 		return prenom;
