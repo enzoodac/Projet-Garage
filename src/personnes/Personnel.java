@@ -19,7 +19,7 @@ public class Personnel extends Humain {
 
 	public static void main(String[] args) {
 		Personnel enzo = new Personnel("DA CUNHA", "Enzo", "0652592615", Poste.SECRETAIRE);
-		System.out.println(enzo.getPoste());
+		System.out.println();
 
 	}
 }
