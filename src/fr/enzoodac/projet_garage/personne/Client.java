@@ -1,5 +1,5 @@
-package personnes;
-import vehicules.Voiture;
+package fr.enzoodac.projet_garage.personne;
+import fr.enzoodac.projet_garage.vehicules.Voiture;
 
 public class Client extends Humain {
 

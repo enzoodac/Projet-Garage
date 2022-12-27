@@ -1,4 +1,4 @@
-package vehicules;
+package fr.enzoodac.projet_garage.vehicules;
 
 public class VO extends Voiture {
 	

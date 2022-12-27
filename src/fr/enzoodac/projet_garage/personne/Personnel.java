@@ -1,4 +1,4 @@
-package personnes;
+package fr.enzoodac.projet_garage.personne;
 
 public class Personnel extends Humain {
 

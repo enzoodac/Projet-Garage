@@ -1,4 +1,4 @@
-package personnes;
+package fr.enzoodac.projet_garage.personne;
 
 public enum Poste {
 	SECRETAIRE("secrétaire"), MECANCIEN("mécanicien"), CHEF_ATELIER("chef d'atelier"), STAGIAIRE("stagiaire"),

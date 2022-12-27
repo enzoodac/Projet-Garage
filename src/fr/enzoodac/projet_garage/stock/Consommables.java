@@ -1,4 +1,4 @@
-package stock;
+package fr.enzoodac.projet_garage.stock;
 
 public class Consommables {
 
