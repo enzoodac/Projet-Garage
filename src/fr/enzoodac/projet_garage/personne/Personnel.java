@@ -1,7 +1,8 @@
 package fr.enzoodac.projet_garage.personne;
 
 public class Personnel extends Humain {
-
+	
+	
 	private Poste[] poste = new Poste[1];
 
 	public Personnel(String nom, String prenom, String telephone, Poste poste) {
@@ -19,7 +20,7 @@ public class Personnel extends Humain {
 
 	public static void main(String[] args) {
 		Personnel enzo = new Personnel("DA CUNHA", "Enzo", "0652592615", Poste.SECRETAIRE);
-		System.out.println();
+		System.out.println(enzo.getPoste());
 
 	}
 }
